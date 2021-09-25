@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 Hello World 
-<iframe src="https://giphy.com/embed/vs28cbDbqmvmmLBhiq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
-  <a href="https://giphy.com/gifs/Emoji-pride-emoji-lgbtqia-vs28cbDbqmvmmLBhiq">via GIPHY</a></p>
-  ![](https://giphy.com/gifs/Emoji-pride-emoji-lgbtqia-vs28cbDbqmvmmLBhiq)
 
 **iAmKankan/iAMKankan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
