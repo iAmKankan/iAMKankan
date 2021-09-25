@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="center">
  
  ![profileviews](https://komarev.com/ghpvc/?username=iAMKankan&color=brightgreen&style=plastic&label=PROFILE+VIEWS) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=blue&style=plastic)](https://www.linkedin.com/in/arijit-bhadra-576316b1)
- 
+ ---
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
