@@ -1,8 +1,4 @@
-### Hi there 👋
-
-Hello World 
-
-**iAmKankan/iAMKankan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**iAmKankan/iAMKankan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +10,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<h1 align="center">Hello World <img width="45" src="https://user-images.githubusercontent.com/12748752/134765527-c29aaac1-00a0-4c20-ba6a-f69da9e27941.gif"
+>, I am Arijit Bhadra </h1>
+<h3 align="center">A Machine Learning Engineer From Bangalore, India
+<p align="center">
+ 
+ ![hello](https://komarev.com/ghpvc/?username=iAMKankan)
