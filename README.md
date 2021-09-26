@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
   
 -----
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iAmKankan&show_icons=true&theme=flag-india)
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iAmKankan&show_icons=true&theme=flag-india&hide=stars,commits,prs,issues,contribs)
 <!--  
 [![repo card12](https://github-readme-stats.vercel.app/api/pin/?username=iAmKankan&show_icons=true&theme=flag-india&repo=MachineLearning_With_Python)](https://github.com/iAmKankan/MachineLearning_With_Python)
 -->
