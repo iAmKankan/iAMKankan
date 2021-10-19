@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
 
 -----
-<img src="https://github-readme-stats.vercel.app/api?username=iAmKankan&show_icons=true&theme=flag-india&hide=stars,commits,prs,issues,contribs" width=50%/> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=iAmKankan&show_icons=true&theme=flag-india&hide=stars,commits,prs,issues,contribs" width=60%/> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--  
 [![repo card12](https://github-readme-stats.vercel.app/api/pin/?username=iAmKankan&show_icons=true&theme=flag-india&repo=MachineLearning_With_Python)](https://github.com/iAmKankan/MachineLearning_With_Python)
