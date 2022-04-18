@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hello World! <img width="45" src="https://user-images.githubusercontent.com/12748752/134773224-c0fedb48-0cb6-40c9-8996-b4639fc3994b.gif"
-> I am Arijit Bhadra </h1>
+> I am Arijit </h1>
 <h3 align="center">A Machine Learning Engineer From Bangalore, India
 <p align="center">
  
