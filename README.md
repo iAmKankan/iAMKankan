@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 <!--
 ![Status](https://github-readme-stats.vercel.app/api?username=iAmKankan&show_icons=true&theme=flag-india&hide=stars,commits,prs,issues,contribs) 
 --->
-![Status](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iAmKankan&show_icons=true&theme=flag-india&hide=stars,commits,prs,issues,contribs) --->
-![Status](https://github-readme-stats-git-arijit-bhadra.vercel.app/api?username=iAmKankan&show_icons=true&theme=flag-india&hide=stars,commits,prs,issues,contribs)
+![Status](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iAmKankan&show_icons=true&theme=flag-india&hide=stars,commits,prs,issues,contribs)
+--->
+![Status](https://github-readme-stats-git-masterrarijit-bhadra.vercel.app/api?username=iAmKankan&show_icons=true&theme=flag-india&hide=stars,commits,prs,issues,contribs)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iAmKankan)](https://git.io/streak-stats)
 
 <!--  
